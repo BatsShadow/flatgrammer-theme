@@ -26,7 +26,7 @@
         "layer0.tint": [51,51,51],
         "layer0.inner_margin": [0,0],
         "layer0.opacity": 0.7,
-        "layer1.texture": "Theme - Brogrammer/Brogrammer/tab-bar@2x.png",
+        "layer1.texture": "Theme - Flatgrammer/Flatgrammer/tab-bar@2x.png",
         "layer1.opacity": 1
     },
     // Tab close state
@@ -49,7 +49,7 @@
         "layer0.texture": "",
         "layer0.tint": [51,51,51],
         "layer0.opacity": 1,
-        "layer1.texture": "Theme - Brogrammer/Brogrammer/tab-bar-active@2x.png",
+        "layer1.texture": "Theme - Flatgrammer/Flatgrammer/tab-bar-active@2x.png",
         "layer1.opacity": 1
     },
     // Tab dirty state (close button hidden)
@@ -66,7 +66,7 @@
     // Tab close button
     {
         "class": "tab_close_button",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/close@2x.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/close@2x.png",
         "layer0.opacity": 0,
         "layer0.tint": [170,170,170]
     },
@@ -91,7 +91,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/circle@2x.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/circle@2x.png",
         "layer0.tint": [201,87,79],
         "layer0.opacity": 1
     },
@@ -105,7 +105,7 @@
     {
         "class": "tab_close_button",
         "parents": [{"class": "tab_control","attributes": ["dirty","hover"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/close.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/close.png",
         "layer0.opacity": 1,
         "layer0.tint": [52,118,206]
     },
@@ -176,7 +176,7 @@
         "layer0.opacity": 1.0,
         "layer0.tint": [25,25,25],
         "layer0.inner_margin": 0,
-        "layer1.texture": "Theme - Brogrammer/Brogrammer/tab-scroll-dropdown.png",
+        "layer1.texture": "Theme - Flatgrammer/Flatgrammer/tab-scroll-dropdown.png",
         "layer1.inner_margin": [5,0,-5,0],
         "layer1.tint": [255,255,255],
         "layer1.opacity": 1.0
@@ -184,7 +184,7 @@
     {
         "class": "show_tabs_dropdown_button",
         "attributes": ["hover"],
-        "layer1.texture": "Theme - Brogrammer/Brogrammer/tab-scroll-dropdown.png",
+        "layer1.texture": "Theme - Flatgrammer/Flatgrammer/tab-scroll-dropdown.png",
         "layer1.inner_margin": [5,0,-5,0],
         "layer1.tint": [52,118,206],
         "layer1.opacity": 1.0
@@ -197,7 +197,7 @@
         "layer0.tint": [25,25,25],
         "layer0.opacity": 1.0,
         "layer0.inner_margin": 0,
-        "layer1.texture": "Theme - Brogrammer/Brogrammer/tab-scroll-left.png",
+        "layer1.texture": "Theme - Flatgrammer/Flatgrammer/tab-scroll-left.png",
         "layer1.inner_margin": [0,0,0,0],
         "layer1.tint": [255,255,255],
         "layer1.opacity": 1.0
@@ -205,7 +205,7 @@
     {
         "class": "scroll_tabs_left_button",
         "attributes": ["hover"],
-        "layer1.texture": "Theme - Brogrammer/Brogrammer/tab-scroll-left.png",
+        "layer1.texture": "Theme - Flatgrammer/Flatgrammer/tab-scroll-left.png",
         "layer1.tint": [52,118,206],
         "layer1.opacity": 1.0
     },
@@ -217,7 +217,7 @@
         "layer0.tint": [25,25,25],
         "layer0.opacity": 1.0,
         "layer0.inner_margin": 0,
-        "layer1.texture": "Theme - Brogrammer/Brogrammer/tab-scroll-right.png",
+        "layer1.texture": "Theme - Flatgrammer/Flatgrammer/tab-scroll-right.png",
         "layer1.inner_margin": [0,0,0,0],
         "layer1.tint": [255,255,255],
         "layer1.opacity": 1.0
@@ -225,7 +225,7 @@
     {
         "class": "scroll_tabs_right_button",
         "attributes": ["hover"],
-        "layer1.texture": "Theme - Brogrammer/Brogrammer/tab-scroll-right.png",
+        "layer1.texture": "Theme - Flatgrammer/Flatgrammer/tab-scroll-right.png",
         "layer1.tint": [52,118,206],
         "layer1.opacity": 1.0
     },
@@ -236,7 +236,7 @@
 
     {
         "class": "fold_button_control",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-closed@2x.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/folder-closed@2x.png",
         "layer0.opacity": 1,
         "layer0.inner_margin": 0,
         "content_margin": [8,8]
@@ -249,7 +249,7 @@
     {
         "class": "fold_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-open@2x.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/folder-open@2x.png",
         "layer0.opacity": 0.25
     },
     {
@@ -571,7 +571,7 @@
     // Sidebar file close
     {
         "class": "close_button",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/circle@2x.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/circle@2x.png",
         "layer0.opacity": 0,
         "layer0.inner_margin": 0,
         "layer0.tint": [201,87,79],
@@ -587,7 +587,7 @@
     {
         "class": "close_button",
         "attributes": ["dirty"],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/circle@2x.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/circle@2x.png",
         "layer0.opacity": 1,
         "layer0.tint": [201,87,79]
     },
@@ -595,13 +595,13 @@
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/close@2x.png"
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/close@2x.png"
     },
     {
         "class": "close_button",
         "attributes": ["dirty"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/close@2x.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/close@2x.png",
         "layer0.opacity": 1,
         "layer0.tint": [52,118,206]
     },
@@ -609,12 +609,12 @@
     {
         "class": "close_button",
         "attributes": ["hover"],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/close@2x.png"
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/close@2x.png"
     },
     {
         "class": "close_button",
         "parents": [{"class": "tree_row","attributes": ["hover","selected"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/close@2x.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/close@2x.png",
         "layer0.opacity": 1
     },
 
@@ -626,7 +626,7 @@
     {
         "class": "disclosure_button_control",
         "content_margin": [9,9],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-closed@2x.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/folder-closed@2x.png",
         "layer0.tint": [170,170,170],
         "layer0.opacity": 1,
         "layer0.inner_margin": [2,2]
@@ -654,7 +654,7 @@
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-closed@2x.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/folder-closed@2x.png",
         "layer0.tint": [170,170,170],
         "layer0.opacity": 1
     },
@@ -662,40 +662,40 @@
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-open@2x.png"
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/folder-open@2x.png"
     },
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-open@2x.png"
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/folder-open@2x.png"
     },
     {
         "class": "disclosure_button_control",
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-open@2x.png"
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/folder-open@2x.png"
     },
     // Sidebar folder open
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-open@2x.png"
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/folder-open@2x.png"
     },
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["hover"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-open@2x.png"
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/folder-open@2x.png"
     },
     {
         "class": "disclosure_button_control",
         "settings": ["soda_folder_icons"],
         "attributes": ["expanded"],
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/folder-open@2x.png"
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/folder-open@2x.png"
     },
 
 //
@@ -931,7 +931,7 @@
     // Regex search button
     {
         "class": "icon_regex",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/regex.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/regex.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -949,7 +949,7 @@
     // Case sensitive search button
     {
         "class": "icon_case",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/casesens.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/casesens.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -967,7 +967,7 @@
     // Match whole word search button
     {
         "class": "icon_whole_word",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/wholeword.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/wholeword.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -990,7 +990,7 @@
     // Show search context button
     {
         "class": "icon_context",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/context.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/context.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1008,7 +1008,7 @@
     // Use search buffer
     {
         "class": "icon_use_buffer",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/buffer.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/buffer.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1030,7 +1030,7 @@
     // Reverse search direction button (ST2 only)
     {
         "class": "icon_reverse",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/reverse.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/reverse.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1048,7 +1048,7 @@
     // Search wrap button
     {
         "class": "icon_wrap",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/wrap.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/wrap.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1066,7 +1066,7 @@
     // Search in selection button
     {
         "class": "icon_in_selection",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/selection.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/selection.png",
         "layer0.tint": [79,91,103],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1089,7 +1089,7 @@
     // Preserve case button
     {
         "class": "icon_preserve_case",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/casesens.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/casesens.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
@@ -1112,7 +1112,7 @@
     // Highlight results button
     {
         "class": "icon_highlight",
-        "layer0.texture": "Theme - Brogrammer/Brogrammer/highlight.png",
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/highlight.png",
         "layer0.tint": [170, 170, 170],
         "layer0.opacity": 1,
         "content_margin": 8
