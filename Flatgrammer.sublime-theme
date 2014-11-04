@@ -482,11 +482,10 @@
     // Sidebar container
     {
         "class": "sidebar_container",
-        "layer0.texture": "",
-        "layer0.opacity": 1,
-        "layer0.tint": [34,34,34],
-        "layer0.inner_margin": [1,5,2,1],
-        "content_margin": [11,9,0,0]
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/sidebar-bg.png",
+        "layer0.opacity": 1.0,
+        "layer0.inner_margin": [1, 1, 2, 1],
+        "content_margin": [0,0, 2, 0]
     },
     // Sidebar tree
     {
@@ -500,16 +499,15 @@
     // Sidebar rows
     {
         "class": "tree_row",
-        "layer0.texture": "",
-        "layer0.tint": [0,0,0],
-        "layer0.opacity": 0,
-        "layer0.inner_margin": [1,1]
+        "layer0.texture": "Theme - Flatgrammer/Flatgrammer/sidebar-row-selected.png",
+        "layer0.opacity": 0.0,
+        "layer0.inner_margin": [1, 1]
     },
     // Sidebar row selected
     {
         "class": "tree_row",
         "attributes": ["selected"],
-        "layer0.opacity": 0
+        "layer0.opacity": 1.0
     },
     // Sidebar heading
     {
@@ -559,7 +557,7 @@
     {
         "class": "sidebar_label",
         "parents": [{"class": "tree_row","attributes": ["selected"]}],
-        "color": [47,103,178],
+        "color": [255,255,255],
         "shadow_color": [0,0,0],
         "shadow_offset": [0,0]
     },
