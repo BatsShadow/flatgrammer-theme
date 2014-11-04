@@ -2,14 +2,14 @@
 
 Flatgrammer is a flat sexy theme.
 
-![Brogrammer Screenshot](http://i.imgur.com/7EPa8Wm.png)
-![Brogrammer Screenshot](http://i.imgur.com/hXE6jYP.png)
+<!--![Brogrammer Screenshot](http://i.imgur.com/7EPa8Wm.png)
+![Brogrammer Screenshot](http://i.imgur.com/hXE6jYP.png)-->
 
 ## Install
 
 ### Via Package Control
 
-Theme is listed as `Theme - Flatgrammer` in Will Bond's [Sublime Package Control](https://sublime.wbond.net).
+Theme is currently not listed in Will Bond's [Sublime Package Control](https://sublime.wbond.net).
 
 ### Manual
 
