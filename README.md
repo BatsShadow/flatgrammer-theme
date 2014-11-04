@@ -25,6 +25,6 @@ Activate the UI theme and color scheme by modifying your user preferences file, 
 ```
 {
   "theme": "Flatgrammer.sublime-theme",
-  "color_scheme": "Packages/Theme - Brogrammer/flatgrammer.tmTheme"
+  "color_scheme": "Packages/Theme - Flatgrammer/flatgrammer.tmTheme"
 }
 ```
