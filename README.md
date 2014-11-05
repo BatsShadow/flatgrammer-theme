@@ -2,8 +2,8 @@
 
 Flatgrammer is a flat sexy theme.
 
-<!--![Brogrammer Screenshot](http://i.imgur.com/7EPa8Wm.png)
-![Brogrammer Screenshot](http://i.imgur.com/hXE6jYP.png)-->
+![Brogrammer Screenshot](http://i.imgur.com/fFWGiDG.png)
+![Brogrammer Screenshot](http://i.imgur.com/AXE6Tuk.png)
 
 ## Install
 
