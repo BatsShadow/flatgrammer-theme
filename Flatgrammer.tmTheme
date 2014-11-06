@@ -208,8 +208,8 @@
 			<string>text source, string.unquoted.heredoc, source source</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#333333</string>
+				<!--<key>background</key>
+				<string>#333333</string>-->
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
