@@ -9,7 +9,8 @@ Flatgrammer is a flat sexy theme.
 
 ### Via Package Control
 
-Theme is currently not listed in Will Bond's [Sublime Package Control](https://sublime.wbond.net).
+Theme is listed in Will Bond's [Sublime Package Control](https://sublime.wbond.net).
+Search for Theme - Flatgrammer 
 
 ### Manual
 
