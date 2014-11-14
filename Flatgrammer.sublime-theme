@@ -16,6 +16,21 @@
         "tab_height": 50,
         "mouse_wheel_switch": false
     },
+    // tab set small
+    {
+        "class": "tabset_control",
+        "settings": ["tabs_small"],
+        "layer0.texture": "",
+        "layer0.tint": [34,34,34],
+        "layer0.inner_margin": 2, // Overlay light puck (for dark content)
+        "layer0.opacity": 1,
+        "content_margin": [0,-5,0,0],
+        "tab_overlap": 0,
+        "tab_width": 140,
+        "tab_min_width": 50,
+        "tab_height": 30,
+        "mouse_wheel_switch": false
+    },
     // Tab element
     {
         "class": "tab_control",
@@ -181,11 +196,34 @@
         "layer1.tint": [255,255,255],
         "layer1.opacity": 1.0
     },
+    // Tab dropdown small
+    {
+        "class": "show_tabs_dropdown_button",
+        "settings": ["tabs_small"],
+        "content_margin": [12, 10, 12, 10],
+        "layer0.texture": "",
+        "layer0.opacity": 1.0,
+        "layer0.tint": [25,25,25],
+        "layer0.inner_margin": 0,
+        "layer1.texture": "Theme - Flatgrammer/Flatgrammer/tab-scroll-dropdown.png",
+        "layer1.inner_margin": [0,0,0,0],
+        "layer1.tint": [255,255,255],
+        "layer1.opacity": 1.0
+    },
     {
         "class": "show_tabs_dropdown_button",
         "attributes": ["hover"],
         "layer1.texture": "Theme - Flatgrammer/Flatgrammer/tab-scroll-dropdown.png",
         "layer1.inner_margin": [5,0,-5,0],
+        "layer1.tint": [52,118,206],
+        "layer1.opacity": 1.0
+    },
+    {
+        "class": "show_tabs_dropdown_button",
+        "settings": ["tabs_small"],
+        "attributes": ["hover"],
+        "layer1.texture": "Theme - Flatgrammer/Flatgrammer/tab-scroll-dropdown.png",
+        "layer1.inner_margin": [0,0,0,0],
         "layer1.tint": [52,118,206],
         "layer1.opacity": 1.0
     },
@@ -199,6 +237,19 @@
         "layer0.inner_margin": 0,
         "layer1.texture": "Theme - Flatgrammer/Flatgrammer/tab-scroll-left.png",
         "layer1.inner_margin": [0,0,0,0],
+        "layer1.tint": [255,255,255],
+        "layer1.opacity": 1.0
+    },
+    {
+        "class": "scroll_tabs_left_button",
+        "settings": ["tabs_small"],
+        "content_margin": [16, 8, 8, 20],
+        "layer0.texture": "",
+        "layer0.tint": [25,25,25],
+        "layer0.opacity": 1.0,
+        "layer0.inner_margin": 0,
+        "layer1.texture": "Theme - Flatgrammer/Flatgrammer/tab-scroll-left.png",
+        "layer1.inner_margin": [0,5,0,0],
         "layer1.tint": [255,255,255],
         "layer1.opacity": 1.0
     },
@@ -219,6 +270,19 @@
         "layer0.inner_margin": 0,
         "layer1.texture": "Theme - Flatgrammer/Flatgrammer/tab-scroll-right.png",
         "layer1.inner_margin": [0,0,0,0],
+        "layer1.tint": [255,255,255],
+        "layer1.opacity": 1.0
+    },
+    {
+        "class": "scroll_tabs_right_button",
+        "settings": ["tabs_small"],
+        "content_margin": [16, 8, 8, 20],
+        "layer0.texture": "",
+        "layer0.tint": [25,25,25],
+        "layer0.opacity": 1.0,
+        "layer0.inner_margin": 0,
+        "layer1.texture": "Theme - Flatgrammer/Flatgrammer/tab-scroll-right.png",
+        "layer1.inner_margin": [0,5,0,0],
         "layer1.tint": [255,255,255],
         "layer1.opacity": 1.0
     },
