@@ -880,6 +880,14 @@
         "dark_content": true
     },
     {
+        "class": "quick_panel",
+        "settings": ["quick_panel_small"],
+        "row_padding": 6,
+        "layer0.tint": [17,17,17],
+        "layer0.opacity": 1,
+        "dark_content": true
+    },
+    {
         "class": "quick_panel_row",
         "layer0.texture": "",
         "layer0.tint": [17,17,17],

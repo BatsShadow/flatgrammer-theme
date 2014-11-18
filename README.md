@@ -34,6 +34,8 @@ Activate the UI theme and color scheme by modifying your user preferences file, 
   // for sidebar entries font size 13px
   "sidebar_size_13": true,
   // for sidebar entries font size 14px
-  "sidebar_size_14": true
+  "sidebar_size_14": true,
+  // for a smaller item size in quick panel
+  "quick_panel_small": true
 }
 ```
