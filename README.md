@@ -28,6 +28,12 @@ Activate the UI theme and color scheme by modifying your user preferences file, 
   "theme": "Flatgrammer.sublime-theme",
   "color_scheme": "Packages/Theme - Flatgrammer/Flatgrammer.tmTheme",
   // for small tabs
-  "tabs_small": true
+  "tabs_small": true,
+  // for sidebar entries font size 12px
+  "sidebar_size_12": true,
+  // for sidebar entries font size 13px
+  "sidebar_size_13": true,
+  // for sidebar entries font size 14px
+  "sidebar_size_14": true
 }
 ```

@@ -594,6 +594,30 @@
         "shadow_color": [0,0,0],
         "shadow_offset": [1,1]
     },
+    {
+        "class": "sidebar_label",
+        "settings": ["sidebar_size_12"],
+        "color": [170,170,170],
+        "shadow_color": [0,0,0],
+        "font.size": 12,
+        "shadow_offset": [1,1]
+    },
+    {
+        "class": "sidebar_label",
+        "settings": ["sidebar_size_13"],
+        "color": [170,170,170],
+        "shadow_color": [0,0,0],
+        "font.size": 13,
+        "shadow_offset": [1,1]
+    },
+    {
+        "class": "sidebar_label",
+        "settings": ["sidebar_size_14"],
+        "color": [170,170,170],
+        "shadow_color": [0,0,0],
+        "font.size": 14,
+        "shadow_offset": [1,1]
+    },
     // Sidebar folder entry
     {
         "class": "sidebar_label",
