@@ -367,7 +367,7 @@
         "class": "puck_control",
         "attributes": ["horizontal"],
         "layer0.texture": "",
-        "layer0.tint":[51,51,51],
+        "layer0.tint":[70,70,70],
         "layer0.inner_margin": [0,0],
         "content_margin": [12,6],
         "blur": false
